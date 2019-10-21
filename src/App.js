@@ -1,7 +1,6 @@
 import './App.css';
 import React, { Component } from 'react'
 import TaxChecker from './components/pages/taxChecker'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
 
 
 

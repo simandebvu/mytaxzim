@@ -10,4 +10,4 @@ export class rateChecker extends Component {
     }
 }
 
-export default rateChecker
+export default rateChecker;
