@@ -14,7 +14,7 @@ I'll create a simple (emphasis on __simple__ !) page that will take the user inp
 
 # Launch Journal:
 ## Day One Pt. 1 (Static Webpage that will simulate the end product)
-<a href="http://ibb.co/kyejSR"><img src="https://ibb.co/dpg5ckW" alt="Tax Check" border="0"></a> </br>
+<img src="https://i.ibb.co/JpQsdrB/TC-Page-01.png" alt="TC-Page-01" border="0">
 
 ## Built With
 * [Reactjs](https://reactjs.org/) - A JavaScript library for building user interfaces
