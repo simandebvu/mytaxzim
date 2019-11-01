@@ -30,6 +30,8 @@ export class FormContainer extends Component {
                 [20000, 30000, 35, 1790],
                 [30000, 999999999, 40, 3290]
             ],
+            earningsValid: false,
+            formerrors: { earnings: '', },
             netTaxAmount: ''
         }
         this.handleFormSubmit = this.handleFormSubmit.bind(this);
